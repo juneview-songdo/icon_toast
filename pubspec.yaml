@@ -1,7 +1,7 @@
 name: icon_toast
-description: "Description here"
+description: "toast with icon view"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/icon_toast
 
 version: 1.0.0+1
 
